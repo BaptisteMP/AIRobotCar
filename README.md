@@ -1,4 +1,4 @@
-# AIRobotCar (manque les files test.py pour conduire la voiture, à commenter, le file autonomous_race (à commenter))
+# AIRobotCar 
 Autonomous car race
 
 
@@ -58,3 +58,5 @@ Les éléments d'amélioration sont: Eviter l'utilisation de Python pour récup�
 
 Pour plus d'informations, toute question, contactez baptiste MOREAU-PERNET sur ce Github.
 
+# A ACTUALISER
+(manque les files test.py pour conduire la voiture, à commenter, le file autonomous_race (à commenter))
