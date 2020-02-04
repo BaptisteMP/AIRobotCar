@@ -9,6 +9,8 @@ Il utilise des ressources en open source développées par Vincent Houlbrèque h
 
 Toutes nos interfaces ont été codées en Python, ce qui est suffisant pour un traitement relativement lent des processus.
 
+# Jupyter Notebook:
+https://github.com/BaptisteMP/AIRobotCar/blob/master/modele_creation/TEST%20Simulator.ipynb
 
 # HARDWARE
 
